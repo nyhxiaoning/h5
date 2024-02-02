@@ -54,7 +54,9 @@
         "less": "^3.9.0",
         "less-loader": "^4.1.0",
         "mini-css-extract-plugin": "^0.5.0",
-        "webpack": "^4.28.3"
+        "webpack": "^4.28.3",
+        "webpack-cli": "^3.1.0",
+        "webpack-dev-server": "^3.11.3"
     },
     "author": "madofu@163.com",
     "license": "ISC"
